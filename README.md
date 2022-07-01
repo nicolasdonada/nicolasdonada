@@ -1,6 +1,6 @@
 Olá, sou o Nicolas 🙋‍♂️
 
-•📚 Estudando: Aprendendo a programar em Java☕
+•📚 Estudando: Aprendendo a programar em Python🐍
 
 
 <div>
