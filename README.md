@@ -2,8 +2,7 @@ Olá, sou o Nicolas 🙋‍♂️
 
 •📚 Estudando:
     Python <img  height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    CSS <img  height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    HTML <img  height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   
     
 
 
