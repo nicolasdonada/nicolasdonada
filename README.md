@@ -31,7 +31,7 @@ Olá, sou o Nicolas 🙋‍♂️
  ### Main skills:
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=ptyhon&labelColor=0D1117)&nbsp;
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
