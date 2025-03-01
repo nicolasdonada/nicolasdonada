@@ -31,7 +31,7 @@ Me chamo Nicolas, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente e
     src="https://github-readme-stats.vercel.app/api?username=nicolasdonada&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117"
   />
 
-<img 
+ <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
