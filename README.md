@@ -4,7 +4,7 @@ Me chamo Nicolas, tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente e
 
 <div align="left"> 
  <a href = "mailto:cmp.1a.nicolasdonada4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> 
+ <a href="https://www.linkedin.com/in/nicolasdonada/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> 
 </div>
 
 
