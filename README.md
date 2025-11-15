@@ -1,6 +1,6 @@
 # 👨🏻‍💻Nicolas Donada
 
-Me chamo Nicolas, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSUL. Sou um entusiasta da tecnologia e da inovação.
+Me chamo Nicolas, tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSUL. Sou um entusiasta da tecnologia e da inovação.
 
 <div align="left"> 
  <a href="https://instagram.com/nickkz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
