@@ -20,23 +20,3 @@ Me chamo Nicolas, tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente e
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 </div>
 
-### 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    width="425"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nicolasdonada&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117"
-  />
-
- <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdonada&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117"
-  />
-
-</p>
